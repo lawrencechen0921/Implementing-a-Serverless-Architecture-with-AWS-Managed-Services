@@ -10,7 +10,7 @@ The system does not use Amazon EC2.
 The system will automatically scale when it is used andincurs practically no cost when it is not being used.
 
 # In this lab you will learn:
-# •Use CloudFront to automatically deploy resources on AWS
-# •Use AWS managed services to implement a serverless architecture
-# •Trigger AWS Lambda functions from Amazon S3 and Amazon DynamoDB
-# •Configure Amazon SNS to send notifications
+•Use CloudFront to automatically deploy resources on AWS
+•Use AWS managed services to implement a serverless architecture
+•Trigger AWS Lambda functions from Amazon S3 and Amazon DynamoDB
+•Configure Amazon SNS to send notifications
